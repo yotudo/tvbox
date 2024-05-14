@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/fty.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/XYQ.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/custom_spider.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/XBPQ.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/pg.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
