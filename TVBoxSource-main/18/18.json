@@ -146,6 +146,15 @@
         }
     ],
     "sites": [
+                {
+            "key": "MissAV",
+            "name": "MissAV1",
+            "type": 3,
+            "api": "csp_Miss",
+            "searchable": 1,
+            "filterable": 1,
+            "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;945ad30d5255359385ba59b8fb061bb7"
+        },
         {
             "key": "番外",
             "name": "番外采集",
@@ -441,15 +450,6 @@
                 "大秀视频",
                 "AV明星1"
             ]
-        },
-        {
-            "key": "MissAV",
-            "name": "MissAV1",
-            "type": 3,
-            "api": "csp_Miss",
-            "searchable": 1,
-            "filterable": 1,
-            "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;945ad30d5255359385ba59b8fb061bb7"
         },
         {
             "key": "小湿妹",
